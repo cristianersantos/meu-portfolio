@@ -19,7 +19,7 @@ Este repositório contém o código fonte do meu primeiro portfólio desenvolvid
 * ##DEPLOY NO NETLIFY: https://portfoliocrisdossantos.netlify.app/
 
 
-### Vamos nosconectar?
+### Vamos nos conectar?
 * **E-mail:** cristianeramoscr6@gmail.com
 * **LinkedIn:** https://www.linkedin.com/in/cristianesantossp/
 * **GitHub:** https://github.com/cristianersantos
