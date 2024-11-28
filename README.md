@@ -16,6 +16,8 @@ Este repositório contém o código fonte do meu primeiro portfólio desenvolvid
 * **estilo.css:** Arquivo CSS responsável por estilizar a página.
 * **img:** Pasta contendo as imagens utilizadas no projeto.
 
+* ##DEPLOY NO NETLIFY: https://portfoliocrisdossantos.netlify.app/
+
 
 ### Vamos nosconectar?
 * **E-mail:** cristianeramoscr6@gmail.com
