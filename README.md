@@ -1,7 +1,8 @@
 ## Portfólio Cristiane dos Santos - Ciclo Formativo PretaLab
 
 #Meu primeiro Portfólio
-[![black woman happy!]([https://media.giphy.com/media/JIX9t2j0Z3rOM/giphy.gif](https://giphy.com/gifs/EdMyletMaxout-happy-cheering-jaleesa-dBNQ22KTke1QPAXZvd)]
+![Animação de um site](https://tenor.com/pt-BR/view/yes-excited-yay-smiling-exciting-gif-12735064096866733831)
+
 ### Sobre o Projeto
 Este repositório contém o código fonte do meu primeiro portfólio desenvolvido durante o módulo de HTML e CSS do Ciclo Formativo PretaLab. Durante as aulas fizemos práticas para compreensão dos conceitos informados. O objetivo principal deste projeto foi consolidar meus conhecimentos nas linguagens de marcação  e estilo descritas, e criar um espaço online para apresentar as habilidades adquiridas em aula.
 
