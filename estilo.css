@@ -10,7 +10,7 @@ body {
     font-size: 1em;
 }
 
-/* Ao cliclar nos links "Sobre e Experiências" a barra de rolagem vai para os tópicos selecionados */
+/* Ao clicar nos links "Formações, Sobre e Experiências" a barra de rolagem vai para os tópicos selecionados */
 html {
     scroll-behavior: smooth;
 }
